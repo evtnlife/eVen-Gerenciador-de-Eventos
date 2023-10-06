@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "proxy": "https://192.168.1.100/laravel/public/"
+  },
+  "extends": "expo/tsconfig.base"
+}
